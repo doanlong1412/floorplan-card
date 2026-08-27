@@ -16,7 +16,7 @@ Card tùy chỉnh cho Home Assistant Lovelace — biến ảnh sơ đồ mặt b
 ## 📸 Xem trước
 
 ![Floorplan Card Preview](assets/preview.png)
-
+![Floorplan Card Preview](assets/preview2.png)
 ---
 
 ## 🎛️ Visual Config Editor
