@@ -16,7 +16,7 @@ A custom Home Assistant Lovelace card that turns a floorplan image into an inter
 ## 📸 Preview
 
 ![Floorplan Card Preview](assets/preview.png)
-
+![Floorplan Card Preview](assets/preview2.png)
 ---
 
 ## 🎛️ Visual Config Editor
