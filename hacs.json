@@ -1,0 +1,8 @@
+{
+  "name": "Floorplan Card",
+  "render_readme": true,
+  "filename": "floorplan-card.js",
+  "content_in_root": true,
+  "country": ["VN"],
+  "homeassistant": "2024.6.0"
+}
